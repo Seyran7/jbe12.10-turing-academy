@@ -2,7 +2,7 @@ package az.edu.turing;
 
 import java.util.Scanner;
 
-public class scannerTask {
+public class scanner_task_if_else {
     public static void main (String[]args){
         //input
     Scanner scan=new Scanner(System.in);
