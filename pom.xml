@@ -3,9 +3,8 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
-    <groupId>org.example</groupId>
-    <artifactId>jbe12.10-turing-academy</artifactId>
+    <groupId>az.edu.turing</groupId>
+    <artifactId>my_first_java_task</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -13,5 +12,3 @@
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-
-</project>
